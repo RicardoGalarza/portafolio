@@ -60,7 +60,7 @@ const AboutMe = () => {
                         variant="contained"
                         color="primary"
                         sx={{ mt: 3, mr: 2 }}
-                        href="/curriculum ricardo galarza.pdf" // Cambia esta ruta por la de tu archivo CV
+                        href="/ricardo 2.0.pdf" // Cambia esta ruta por la de tu archivo CV
                         download
                     >
                         Descargar CV
